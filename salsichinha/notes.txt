@@ -1,0 +1,35 @@
+fonte usada: https://fonts.googleapis.com/css?family=Raleway&display=swap
+cor do fundo da página: #E8DAB2
+Header
+altura do header: mesmo tamanho da altura da tela
+tamanho da fonte Bem vindo: 26px
+tamanho da fonte do titulo escrito Petshop Salchichinha: 52px
+tamanho da silhoueta do cachorro 370x192
+
+
+Informativo da página (Parte com fundo branco)
+largura: 800px
+Espaçamentos dentro do container: 34px no topo, 10px no fundo e 24px nas duas laterais
+Tamanho dos título: 30px
+entrelinha dos paragrafos: 24px
+Tamanhos das imagens e vídeos: tamanho total do container, menos 15 pixels de cada lado
+
+Rodapé
+Comportamento fixo no fundo da página
+espaçamento dentro do container: 16px para todos os lados
+altura: 50px
+cor do fundo: #090909
+cor do link: #35B1D2
+embed youtube https://www.youtube.com/embed/IKMPWnRRV04
+Textos
+Um serviço pro seu au-migo favorito
+Aqui seu Salsicha será bem cuidado
+Características do porque amar um Salchichinha
+Fofos
+Expressivos
+Rebaixados
+Os Dachshunds são cachorros enérgicos e adoram gastar sua energia procurado novos alvos para caçar ou se divertir com o seu tutor. Portanto, para que ele não acabe tendo sobrepeso por ficar muito tempo parado, é importante realizar atividades físicas com o pet.
+Desde passeios ou até mesmo, se for possível, um espaço para que ele possa correr livremente sem riscos. Além disso, eles são animais que adoram a presença de pessoas e não costumam se dar muito bem com a solidão.
+Veja um vídeo dos nossos parceiros
+Quando a gente pensa em adoção animal, normalmente esse pensamento vem acompanhado de um sentimento de ajudar um animal, de tornar a sociedade melhor com menos um bicho na rua. Mas será que na realidade é assim? O que realmente se esconde por trás de uma adoção?
+Por que as pessoas adotam? Que sentimento é esse que faz uma pessoa retirar um animal da rua e levar para casa? Eu poderia passar horas aqui escrevendo sobre isso, pois são muitos sentimentos que se misturam, mas o mais forte é também o mais simples, amor!
